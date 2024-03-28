@@ -64,7 +64,7 @@ header{
 #intro-div{
     display: flex;
     flex-direction: row-reverse;
-    background-image: url(/images/Untitled-1.png);
+    background-image: url(Untitled-1.png);
 }
 #intro-div >img{
     height: 700px;
